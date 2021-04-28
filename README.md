@@ -1,18 +1,12 @@
 ### Hi there 👋
 
-<!--
-**shearertzach/shearertzach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on pursuing a Bachelor's Degree in CS
+- 🌱 I’m currently learning Nodejs
+- 💬 Ask me about any of my projects!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Zach's Github Stats](https://github-readme-stats.vercel.app/api?username=shearertzach&theme=blue-green) ![Zachs's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shearertzach&theme=blue-green)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shearertzach&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=default&theme=dark&card_width=400&langs_count=3" />
+</a>
