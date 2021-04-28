@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning Nodejs
 - 💬 Ask me about any of my projects!
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=default&theme=dark&card_width=400&langs_count=3" />
-</a>
+![Zach's Github Stats](https://github-readme-stats.vercel.app/api?username=shearertzach&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=default&theme=dark&card_width=495&langs_count=3)
