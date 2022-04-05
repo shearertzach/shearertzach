@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on pursuing a Bachelor's Degree in CS
-- 🌱 I’m currently learning Nodejs
+- 🌱 I’m currently learning C++ and C#
 - 💬 Ask me about any of my projects!
 
 ![Zach's Github Stats](https://github-readme-stats.vercel.app/api?username=shearertzach&show_icons=true&theme=tokyonight)
