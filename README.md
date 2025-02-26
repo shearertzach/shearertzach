@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on pursuing a Bachelor's Degree in CS
+- 🔭 I’m currently working as a Software Engineer in the manufacturing industry
 - 🌱 I’m currently learning C++ and C#
 - 💬 Ask me about any of my projects!
 
